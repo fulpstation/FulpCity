@@ -219,6 +219,7 @@ export const DmTarget = new Juke.Target({
     'sound/**',
     'tgui/public/tgui.html',
     'modular_darkpack/**', // DARKPACK EDIT ADD
+    'fulp_modules/**', // Fulp edit - Compile our stuff
     `${DME_NAME}.dme`,
     NamedVersionFile,
   ],
