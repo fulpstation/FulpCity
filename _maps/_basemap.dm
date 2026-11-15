@@ -13,6 +13,9 @@
 	#include "map_files\debug\multiz.dmm"
 	#include "map_files\debug\runtimestation.dmm"
 	// DARKPACK EDIT CHANGE END
+	// Fulp edit START - Adding our maps
+	#include "map_files\Vampire\oakland\bomby_oakland.dmm"
+	// Fulp edit ENDS
 #endif
 #ifdef ALL_TEMPLATES
 	#include "templates.dm"
